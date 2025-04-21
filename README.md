@@ -2,7 +2,7 @@
 
 - **[VIEW DEMO](https://giftedtech.web.id)**
 
-- You can check out my old portfolio **[HERE](https://github.com/mauricegift/gifted-portfolio)**
+- You can check out my old portfolio repo **[HERE](https://github.com/mauricegift/gifted-portfolio)**
 
 ![Portfolio Screenshot](https://zanalydpkhnbrjipfldc.supabase.co/storage/v1/object/public/juustgifted//Screenshot%202025-04-21%20041228.png) 
 
