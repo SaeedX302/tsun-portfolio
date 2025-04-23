@@ -1,6 +1,6 @@
 # Gifted Maurice Old Portfolio
 
-- **[VIEW DEMO](https://portfolio-old.giftedtech.web.id)**
+- **[VIEW LIVE](https://portfolio-old.giftedtech.web.id)**
 
 - You can check out my new portfolio repo **[HERE](https://github.com/mauricegift/gifted-portfolio)**
 
