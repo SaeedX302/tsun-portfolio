@@ -18,10 +18,10 @@ const app = express();
 app.use(express.json());
 
 // Serve the index.html file
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'src')));
 
 app.get('/terms', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'terms.html'));
+    res.sendFile(path.join(__dirname, 'src', 'terms.html'));
 });
 
 app.get('/privacy', (req, res) => {
